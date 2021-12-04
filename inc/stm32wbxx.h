@@ -83,7 +83,6 @@
 /** @addtogroup Device_Included
   * @{
   */
-#define STM32WB30xx
 #if defined(STM32WB55xx)
   #include "stm32wb55xx.h"
 #elif defined(STM32WB5Mxx)
