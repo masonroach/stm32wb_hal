@@ -1,4 +1,4 @@
-stm32wbxx_hal_conf.h
-stm32wbxx_it.c
-stm32wbxx_it.h
-system_stm32wbxx.c
+*/stm32wbxx_hal_conf.h
+*/stm32wbxx_it.c
+*/stm32wbxx_it.h
+*/system_stm32wbxx.c
